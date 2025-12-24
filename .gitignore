@@ -1,0 +1,27 @@
+# --- UNIVERSAL ACADEMIC GITIGNORE ---
+
+# C / C++ 
+*.exe
+*.o
+*.out
+*.obj
+
+# Java
+*.class
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Operating Systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors (VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+*.log
