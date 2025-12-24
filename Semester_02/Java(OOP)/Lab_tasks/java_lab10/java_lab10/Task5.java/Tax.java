@@ -1,0 +1,4 @@
+interface Tax{
+void payTax();
+}
+
