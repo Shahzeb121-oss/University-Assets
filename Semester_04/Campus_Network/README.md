@@ -6,11 +6,8 @@ The design uses routers, switches, servers, and end devices with proper IP addre
 
 ---
 
-## 👥 Group Members
-1. Muhammad Shahzaib  
-2. Ali Usama
-3. Musawir Saddique  
-4. Salar Ahmed
+## 👥 Author
+Muhammad Shahzaib
 
 ---
 
