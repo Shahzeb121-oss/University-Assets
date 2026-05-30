@@ -7,7 +7,7 @@ The design uses routers, switches, servers, and end devices with proper IP addre
 ---
 
 ## 👥 Author
-Muhammad Shahzaib 
+Muhammad Shahzaib
 
 ---
 
